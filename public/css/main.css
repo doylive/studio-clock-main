@@ -1,5 +1,5 @@
 body {
-  background-color: #000000;
+  background-color: #00000052;
 }
 
 html,
@@ -9,6 +9,7 @@ body,
 }
 
 #container {
+  background-color: rgba(255, 235, 205, 0.178);
   display: flex;
   align-items: center;
   justify-content: center;
